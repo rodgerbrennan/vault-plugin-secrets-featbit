@@ -1,0 +1,4 @@
+vault-plugin-secrets-featbit
+!cmd/vault-plugin-secrets-featbit/
+*.test
+.env
